@@ -1,7 +1,7 @@
 const fruits = ['apple', 'mango', 'grapes'];
 
 for(let fruit in fruits){
-    console.log(fruits[fruit]);
+    console.log(fruit);
 }
 
 console.log('\n');
