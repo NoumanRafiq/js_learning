@@ -4,7 +4,8 @@ const user = {
     name: 'Ali',
     age: 23,
     education: 'hssc',
-    qualification: 'fsc'
+    qualification: 'fsc',
+    anyLiscences: 'yes'
 };
 
 let {name, age, ...newObj} = user;
