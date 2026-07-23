@@ -5,5 +5,5 @@ const simplePrint = function (functionParam){
     return functionParam;
 }
 
-// a function can be assignable to a variable.
+// a function can be assignable to a variable. 
 console.log(simplePrint('salam'));
