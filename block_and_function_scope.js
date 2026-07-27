@@ -3,11 +3,17 @@
 
 {
     let myName = 'Nouman';
+    console.log(myName);    
 }
 
 {
     var myName = 'Ali';
+    console.log(myName);
 }
+
 {
     const myName = 'Ahmed';
+    console.log(myName);
 }
+
+console.log(myName);
